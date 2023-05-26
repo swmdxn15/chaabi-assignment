@@ -27,4 +27,10 @@ npm install
 yarn install
 ```
 
-### [Live Example]
+### [Live Example] (https://webtypist-swmdwn.netlify.app/)
+
+### Technologies Used:
+- React
+- react-simple-keyboard
+- react-simple-typewriter
+- Typescript
