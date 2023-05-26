@@ -1,1 +1,9 @@
 
+# WebTypist
+
+> A web based app to practice typing.
+
+<img width="1440" alt="Screenshot 2023-05-27 at 12 44 59 AM" src="https://github.com/swmdxn15/chaabi-assignment/assets/86848961/f92bf391-ea03-4e72-849e-8394469aa06f">
+
+<img width="485" alt="Screenshot 2023-05-27 at 12 45 48 AM" src="https://github.com/swmdxn15/chaabi-assignment/assets/86848961/c0410cb7-a079-4798-9006-094d49d4e964">
+
