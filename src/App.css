@@ -1,0 +1,51 @@
+.simple-keyboard .hg-button {
+  background-color: black;
+  font-weight: bold;
+}
+@import url("https://fonts.googleapis.com/css2?family=NTR&family=Roboto+Mono:wght@200&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #1c1137;
+  font-family: "NTR", sans-serif;
+}
+.keyboard-logo {
+  width: 50px;
+  height: 50px;
+}
+.type {
+  color: #ffffff;
+}
+.instructions-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.instructions-section p {
+  font-size: 25px;
+  margin: 0;
+  color: #939aff;
+}
+.typist {
+  color: #43d392;
+  font-weight: bold;
+}
+
+.typist {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  font-size: 25px;
+  top: 15px;
+}
+#web {
+  position: relative;
+  top: 15px;
+  font-size: 25px;
+}
+.remaining-text {
+  font-size: 33px;
+}
